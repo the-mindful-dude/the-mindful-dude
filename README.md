@@ -51,7 +51,7 @@ I start from the system, not the framework:
 
 ## Find me
 - X (Twitter): https://x.com/TheMindfulDude_1  
-- LinkedIn: https://www.linkedin.com/in/muhammad-ahmed/
+- LinkedIn: https://www.linkedin.com/in/muhammad-a-ahmed
 - Email: muhammad.awaisu.ahmed@gmail.com
 
 Building systems, learning by building, and making complicated software easier to reason about.
