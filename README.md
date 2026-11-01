@@ -50,7 +50,7 @@ I start from the system, not the framework:
 4. Expand capabilities with tooling and automation
 
 ## Find me
-- X (Twitter): https://x.com/@TheMindfulDude_1  
+- X (Twitter): https://x.com/TheMindfulDude_1  
 - LinkedIn: https://www.linkedin.com/in/muhammad-ahmed/
 - Email: muhammad.awaisu.ahmed@gmail.com
 
