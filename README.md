@@ -1,58 +1,28 @@
-# About Me
+# The Mindful Dude
 
-Software engineer building runtimes, developer tools, and systems.
+I build software from problems I encounter and ideas I want to bring to life. My work moves between underlying systems and the experiences people use—from runtimes and automation to interactive applications and tools for learning and creating.
 
-I focus on the layers beneath user-facing applications: execution engines, developer tooling, local-first platforms, APIs, and automation. Currently I’m building Neuron, a programmable execution platform for turning systems and services into running software.
+I care about making complex things understandable, keeping the design of a system connected to how it behaves, and building beyond the first working screen.
 
-## What I'm building
+## Selected work
 
-### Neuron
-A runtime and developer platform for turning systems and services into executable software. The goal is to make complex systems easier to define, run, inspect, and operate without forcing teams to build the underlying execution infrastructure.
+- **[Neuron](https://github.com/neuron-runtime/neuron)** — A runtime for composing and executing software from independent capabilities connected through explicit contracts.
+- **[simplify.dev](https://github.com/the-mindful-dude/simplify)** — Making substantial software building blocks reusable and installable, from UI and functional blocks to logic, integrations, and recipes. GitHub remains the source of truth for library code.
+- **[Gus](https://github.com/the-mindful-dude/gus)** — AI-assisted Git workflow planning with validated plans, configurable approvals, safe repository operations, and resumable execution.
+- **[Lazarus](https://github.com/the-mindful-dude/lazarus-cloud)** — Connecting technical documentation with real command execution, so people can explore a tool and work with it in the same environment.
 
-Work in progress:
-- N.O.R.E. (Neuron runtime and execution engine)
-- system and project resolution
-- execution and instance management
-- real-time event and log streaming
-- local and remote runtime communication
-- executor discovery and management
-- persistent runtime state and tooling
+## Areas of work
 
-Explore Neuron: https://github.com/Muhammad-Jay/neuron
+My work spans several areas of software engineering:
 
-## Selected projects
+- Runtime design, execution systems, and composable architectures.
+- Software automation, orchestration, and system integration.
+- Reusable software, application architecture, and developer experience.
+- Interactive applications, simulations, and user-facing products.
 
-- **Neuron** — programmable runtime and execution platform.  
-  https://github.com/Muhammad-Jay/neuron
+I approach each project from the problem itself, rather than trying to fit every idea into the same category or technology stack.
 
-- **Jaguar** — local-first development platform with CLI, API, and desktop tooling.  
-  https://github.com/Muhammad-Jay/Jaguar
+## Elsewhere
 
-- **GitFlowAI** — cross-platform CLI that uses AI to analyze local Git changes and suggest actions.  
-  https://github.com/Muhammad-Jay/Git-Flow-AI
-
-- **Lazarus** — tooling and automation for managing cloud infrastructure and microservice architectures.  
-  https://github.com/Muhammad-Jay/Lazarus-Cloud-Automation-Platform
-
-## Engineering interests
-- Runtime and execution systems
-- Developer tooling and CLI workflows
-- Local-first and distributed systems
-- Observability, streaming, and event-driven architectures
-- AI-assisted development and automation
-- System design and developer experience
-
-## How I work
-I start from the system, not the framework:
-1. Understand the problem and boundaries
-2. Build the smallest useful runtime
-3. Make behavior observable
-4. Expand capabilities with tooling and automation
-
-## Find me
-- X (Twitter): https://x.com/TheMindfulDude_1  
-- LinkedIn: https://www.linkedin.com/in/muhammad-a-ahmed
-- Email: muhammad.awaisu.ahmed@gmail.com
-
-Building systems, learning by building, and making complicated software easier to reason about.
-
+- [X](https://x.com/TheMindfulDude1)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-a-ahmed)
